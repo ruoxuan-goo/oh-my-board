@@ -1,0 +1,84 @@
+C:\Users\User\Desktop\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.exe
+C:\Users\User\Desktop\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.deps.json
+C:\Users\User\Desktop\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.runtimeconfig.json
+C:\Users\User\Desktop\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.runtimeconfig.dev.json
+C:\Users\User\Desktop\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.dll
+C:\Users\User\Desktop\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.pdb
+C:\Users\User\Desktop\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.AssemblyInfo.cs
+C:\Users\User\Desktop\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.dll
+C:\Users\User\Desktop\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.pdb
+C:\Users\User\Desktop\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.genruntimeconfig.cache
+C:\Users\User\Desktop\OhMyBoard - undoredo\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.exe
+C:\Users\User\Desktop\OhMyBoard - undoredo\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.deps.json
+C:\Users\User\Desktop\OhMyBoard - undoredo\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.runtimeconfig.json
+C:\Users\User\Desktop\OhMyBoard - undoredo\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.runtimeconfig.dev.json
+C:\Users\User\Desktop\OhMyBoard - undoredo\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.dll
+C:\Users\User\Desktop\OhMyBoard - undoredo\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.pdb
+C:\Users\User\Desktop\OhMyBoard - undoredo\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OhMyBoard - undoredo\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OhMyBoard - undoredo\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OhMyBoard - undoredo\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.AssemblyInfo.cs
+C:\Users\User\Desktop\OhMyBoard - undoredo\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OhMyBoard - undoredo\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.dll
+C:\Users\User\Desktop\OhMyBoard - undoredo\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.pdb
+C:\Users\User\Desktop\OhMyBoard - undoredo\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.genruntimeconfig.cache
+C:\Users\User\Desktop\OhMyBoard - saveandload\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.exe
+C:\Users\User\Desktop\OhMyBoard - saveandload\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.deps.json
+C:\Users\User\Desktop\OhMyBoard - saveandload\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.runtimeconfig.json
+C:\Users\User\Desktop\OhMyBoard - saveandload\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.runtimeconfig.dev.json
+C:\Users\User\Desktop\OhMyBoard - saveandload\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.dll
+C:\Users\User\Desktop\OhMyBoard - saveandload\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.pdb
+C:\Users\User\Desktop\OhMyBoard - saveandload\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OhMyBoard - saveandload\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OhMyBoard - saveandload\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OhMyBoard - saveandload\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.AssemblyInfo.cs
+C:\Users\User\Desktop\OhMyBoard - saveandload\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OhMyBoard - saveandload\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.dll
+C:\Users\User\Desktop\OhMyBoard - saveandload\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.pdb
+C:\Users\User\Desktop\OhMyBoard - saveandload\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.genruntimeconfig.cache
+C:\Users\User\Desktop\OhMyBoard - compplayer\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.exe
+C:\Users\User\Desktop\OhMyBoard - compplayer\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.deps.json
+C:\Users\User\Desktop\OhMyBoard - compplayer\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.runtimeconfig.json
+C:\Users\User\Desktop\OhMyBoard - compplayer\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.runtimeconfig.dev.json
+C:\Users\User\Desktop\OhMyBoard - compplayer\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.dll
+C:\Users\User\Desktop\OhMyBoard - compplayer\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.pdb
+C:\Users\User\Desktop\OhMyBoard - compplayer\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OhMyBoard - compplayer\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OhMyBoard - compplayer\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OhMyBoard - compplayer\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.AssemblyInfo.cs
+C:\Users\User\Desktop\OhMyBoard - compplayer\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OhMyBoard - compplayer\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.dll
+C:\Users\User\Desktop\OhMyBoard - compplayer\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.pdb
+C:\Users\User\Desktop\OhMyBoard - compplayer\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.genruntimeconfig.cache
+C:\Users\User\Desktop\OhMyBoard - beforecheckwin\OhMyBoard - compplayer\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.exe
+C:\Users\User\Desktop\OhMyBoard - beforecheckwin\OhMyBoard - compplayer\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.deps.json
+C:\Users\User\Desktop\OhMyBoard - beforecheckwin\OhMyBoard - compplayer\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.runtimeconfig.json
+C:\Users\User\Desktop\OhMyBoard - beforecheckwin\OhMyBoard - compplayer\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.runtimeconfig.dev.json
+C:\Users\User\Desktop\OhMyBoard - beforecheckwin\OhMyBoard - compplayer\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.dll
+C:\Users\User\Desktop\OhMyBoard - beforecheckwin\OhMyBoard - compplayer\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.pdb
+C:\Users\User\Desktop\OhMyBoard - beforecheckwin\OhMyBoard - compplayer\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OhMyBoard - beforecheckwin\OhMyBoard - compplayer\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OhMyBoard - beforecheckwin\OhMyBoard - compplayer\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OhMyBoard - beforecheckwin\OhMyBoard - compplayer\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.AssemblyInfo.cs
+C:\Users\User\Desktop\OhMyBoard - beforecheckwin\OhMyBoard - compplayer\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OhMyBoard - beforecheckwin\OhMyBoard - compplayer\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.dll
+C:\Users\User\Desktop\OhMyBoard - beforecheckwin\OhMyBoard - compplayer\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.pdb
+C:\Users\User\Desktop\OhMyBoard - beforecheckwin\OhMyBoard - compplayer\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.genruntimeconfig.cache
+C:\Users\User\Desktop\IFN563_n10297103\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.exe
+C:\Users\User\Desktop\IFN563_n10297103\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.deps.json
+C:\Users\User\Desktop\IFN563_n10297103\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.runtimeconfig.json
+C:\Users\User\Desktop\IFN563_n10297103\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.runtimeconfig.dev.json
+C:\Users\User\Desktop\IFN563_n10297103\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.dll
+C:\Users\User\Desktop\IFN563_n10297103\OhMyBoard\bin\Debug\netcoreapp3.1\OhMyBoard.pdb
+C:\Users\User\Desktop\IFN563_n10297103\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IFN563_n10297103\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IFN563_n10297103\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IFN563_n10297103\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.AssemblyInfo.cs
+C:\Users\User\Desktop\IFN563_n10297103\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IFN563_n10297103\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.dll
+C:\Users\User\Desktop\IFN563_n10297103\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.pdb
+C:\Users\User\Desktop\IFN563_n10297103\OhMyBoard\obj\Debug\netcoreapp3.1\OhMyBoard.genruntimeconfig.cache
